@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/LydrejseSpline.unity
+- path: Assets/NewScene/VizuStart.unity
   isLoaded: 1
   isActive: 1
