@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8F381CA8-A30B-A774-EB19-A1E74250AF0D}</ProjectGuid>
+    <ProjectGuid>{34CE3FEE-336D-CDE8-161D-BC294916EAF4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -253,6 +253,7 @@
      <Compile Include="Assets\Scripts\MovieRunLoop.cs" />
      <Compile Include="Assets\Scripts\PrintController.cs" />
      <Compile Include="Assets\Scripts\RadioController.cs" />
+     <Compile Include="Assets\Scripts\SceneChange.cs" />
      <Compile Include="Assets\Scripts\SceneTransfer.cs" />
      <Compile Include="Assets\Scripts\ScoreController.cs" />
      <Compile Include="Assets\Scripts\ScoreEnum.cs" />
@@ -392,15 +393,15 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
  <Reference Include="AudioToolkit_FreeVersion">
- <HintPath>/Users/mikkelchristiansen/SKAT_VR/SKAT_VR_Unity/Assets/Imported/AudioToolkit/AudioToolkit/AudioToolkit_FreeVersion.dll</HintPath>
+ <HintPath>/Users/mikkelchristiansen/Git/Vizu_Test/Assets/Imported/AudioToolkit/AudioToolkit/AudioToolkit_FreeVersion.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>/Users/mikkelchristiansen/SKAT_VR/SKAT_VR_Unity/Assets/UnityPackages/JsonNet/Newtonsoft.Json.dll</HintPath>
+ <HintPath>/Users/mikkelchristiansen/Git/Vizu_Test/Assets/UnityPackages/JsonNet/Newtonsoft.Json.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{19C1DD3D-540C-D403-D49F-1463F0B0FD8D}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{F5CB0C60-7749-620C-A20B-574163B6EBDA}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

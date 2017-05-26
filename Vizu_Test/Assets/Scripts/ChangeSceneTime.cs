@@ -13,10 +13,10 @@ public class ChangeSceneTime : MonoBehaviour {
 
 		StartCoroutine ("SwitchScene");
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
-		
+
 	}
 
 	IEnumerator SwitchScene() {

@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{19C1DD3D-540C-D403-D49F-1463F0B0FD8D}</ProjectGuid>
+    <ProjectGuid>{F5CB0C60-7749-620C-A20B-574163B6EBDA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -191,10 +191,10 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
  <Reference Include="AudioToolkit_FreeVersion">
- <HintPath>/Users/mikkelchristiansen/SKAT_VR/SKAT_VR_Unity/Assets/Imported/AudioToolkit/AudioToolkit/AudioToolkit_FreeVersion.dll</HintPath>
+ <HintPath>/Users/mikkelchristiansen/Git/Vizu_Test/Assets/Imported/AudioToolkit/AudioToolkit/AudioToolkit_FreeVersion.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>/Users/mikkelchristiansen/SKAT_VR/SKAT_VR_Unity/Assets/UnityPackages/JsonNet/Newtonsoft.Json.dll</HintPath>
+ <HintPath>/Users/mikkelchristiansen/Git/Vizu_Test/Assets/UnityPackages/JsonNet/Newtonsoft.Json.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

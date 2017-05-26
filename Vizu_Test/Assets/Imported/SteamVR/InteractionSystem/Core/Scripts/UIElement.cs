@@ -66,7 +66,7 @@ namespace Valve.VR.InteractionSystem
 		}
 	}
 
-#if UNITY_EDITOR
+	#if UNITY_EDITOR
 	//-------------------------------------------------------------------------
 	[UnityEditor.CustomEditor( typeof( UIElement ) )]
 	public class UIElementEditor : UnityEditor.Editor
@@ -85,5 +85,5 @@ namespace Valve.VR.InteractionSystem
 			}
 		}
 	}
-#endif
+	#endif
 }
