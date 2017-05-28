@@ -3,16 +3,16 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class SceneChange : MonoBehaviour 
+public class SceneChange2 : MonoBehaviour 
 
 
 	
 	{
-	public void ChangeScene ()
-	{
+	public void ChangeScene()
+		{
 		Debug.LogError ("test");
-		SceneManager.LoadScene ("Model", LoadSceneMode.Single);
+		SceneManager.LoadScene("VizuStart", LoadSceneMode.Single);
+
+
+		}
 	}
-}
-
-

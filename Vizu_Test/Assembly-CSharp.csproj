@@ -249,11 +249,14 @@
      <Compile Include="Assets\Scripts\ExampleClass.cs" />
      <Compile Include="Assets\Scripts\GameLoopController.cs" />
      <Compile Include="Assets\Scripts\JsonController.cs" />
+     <Compile Include="Assets\Scripts\MikkelsScripts\ActiveObjects.cs" />
+     <Compile Include="Assets\Scripts\MikkelsScripts\UIText.cs" />
      <Compile Include="Assets\Scripts\MovieRun.cs" />
      <Compile Include="Assets\Scripts\MovieRunLoop.cs" />
      <Compile Include="Assets\Scripts\PrintController.cs" />
      <Compile Include="Assets\Scripts\RadioController.cs" />
      <Compile Include="Assets\Scripts\SceneChange.cs" />
+     <Compile Include="Assets\Scripts\SceneChange2.cs" />
      <Compile Include="Assets\Scripts\SceneTransfer.cs" />
      <Compile Include="Assets\Scripts\ScoreController.cs" />
      <Compile Include="Assets\Scripts\ScoreEnum.cs" />
